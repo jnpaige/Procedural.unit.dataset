@@ -13,9 +13,9 @@ GPSA at Arizona State University, and the School of Human Evolution and Social C
 # Codebook version
 
 This dataset was aggregated by coding published descriptions of stone tool assemblages. 
-The codebook version used to generate this dataset was version 1.0, and is hosted here: 
+The codebook version used to generate this dataset was version 1.0, and is hosted here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847876.svg)](https://doi.org/10.5281/zenodo.7847876)
 with development on github here: https://github.com/jnpaige/Procedural.unit.codebook
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847876.svg)](https://doi.org/10.5281/zenodo.7847876)
+
 
 
 
